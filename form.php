@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Bitwise Operations Form</title>
+    <title>assigment 6 bitwise_operations form</title>
 </head>
 <body>
     <h2>Enter Integers for Bitwise Operations</h2>
